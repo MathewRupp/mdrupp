@@ -17,6 +17,21 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/mdrupp/tags/tag-1/</loc>
+    <lastmod>2024-10-15T15:00:05-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/mdrupp/tags/tag-2/</loc>
+    <lastmod>2024-10-15T15:00:05-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/mdrupp/tags/</loc>
+    <lastmod>2024-10-15T15:00:05-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/mdrupp/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -26,10 +41,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/mdrupp/series/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mdrupp/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
