@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
     <loc>http://localhost:1313/mdrupp/</loc>
     <lastmod>2024-10-15T15:00:05-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/mdrupp/posts/my-first-post/</loc>
     <lastmod>2024-10-15T15:00:05-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/mdrupp/posts/</loc>
     <lastmod>2024-10-15T15:00:05-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/mdrupp/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/mdrupp/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/mdrupp/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/mdrupp/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
