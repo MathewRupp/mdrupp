@@ -17,5 +17,12 @@
       <guid>http://localhost:1313/mdrupp/posts/my-first-post/</guid>
       <description></description>
     </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/mdrupp/posts/my-second-post/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:05 -0700</pubDate><author>mathewrupp@gmail.com (Mathew Rupp)</author>
+      <guid>http://localhost:1313/mdrupp/posts/my-second-post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
