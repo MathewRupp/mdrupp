@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mathewrupp.github.io/mdrupp/sitemap.xml
+Sitemap: mdrupp.com/sitemap.xml
