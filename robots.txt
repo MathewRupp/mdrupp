@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: mdrupp.com/sitemap.xml
+Sitemap: http://mdrupp.com/sitemap.xml
