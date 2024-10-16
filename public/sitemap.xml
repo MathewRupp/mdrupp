@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mdrupp.com/</loc>
     <lastmod>2024-10-15T15:00:05-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/my-second-post/</loc>
+    <loc>https://mdrupp.com/posts/my-second-post/</loc>
     <lastmod>2024-10-15T15:00:05-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://mdrupp.com/posts/</loc>
     <lastmod>2024-10-15T15:00:05-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://mdrupp.com/posts/my-first-post/</loc>
     <lastmod>2024-10-15T15:00:05-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://mdrupp.com/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/my-third-post/my-third-post/</loc>
+    <loc>https://mdrupp.com/posts/my-third-post/my-third-post/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
