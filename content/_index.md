@@ -2,6 +2,4 @@
 description: I like to build things
 ---
 
-# Hey There
-
-My name is Mat.
+My name is Mat. I build applications to solve problems.
