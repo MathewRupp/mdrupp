@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Mathew Rupp</title>
-    <link>http://localhost:1313/mdrupp/series/</link>
+    <link>//localhost:1313/series/</link>
     <description>Recent content in Series on Mathew Rupp</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mathewrupp@gmail.com (Mathew Rupp)</managingEditor>
     <webMaster>mathewrupp@gmail.com (Mathew Rupp)</webMaster>
-    <atom:link href="http://localhost:1313/mdrupp/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Mathew Rupp</copyright>
+    <atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
