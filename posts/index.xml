@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mathew Rupp</title><link>https://mdrupp.com/posts/</link><description>Recent content in Posts on Mathew Rupp</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mathewrupp@gmail.com (Mathew Rupp)</managingEditor><webMaster>mathewrupp@gmail.com (Mathew Rupp)</webMaster><copyright>© 2024 Mathew Rupp</copyright><lastBuildDate>Tue, 15 Oct 2024 19:59:39 -0700</lastBuildDate><atom:link href="https://mdrupp.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My Third Post</title><link>https://mdrupp.com/posts/my-third-post/</link><pubDate>Tue, 15 Oct 2024 19:59:39 -0700</pubDate><author>mathewrupp@gmail.com (Mathew Rupp)</author><guid>https://mdrupp.com/posts/my-third-post/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mdrupp.com/posts/my-third-post/featured.jpg"/></item><item><title>My Second Post</title><link>https://mdrupp.com/posts/my-second-post/</link><pubDate>Tue, 15 Oct 2024 15:00:05 -0800</pubDate><author>mathewrupp@gmail.com (Mathew Rupp)</author><guid>https://mdrupp.com/posts/my-second-post/</guid><description/></item><item><title>My First Post</title><link>https://mdrupp.com/posts/my-first-post/</link><pubDate>Tue, 15 Oct 2024 15:00:05 -0700</pubDate><author>mathewrupp@gmail.com (Mathew Rupp)</author><guid>https://mdrupp.com/posts/my-first-post/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mathew Rupp</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Mathew Rupp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mathewrupp@gmail.com (Mathew Rupp)</managingEditor>
+    <webMaster>mathewrupp@gmail.com (Mathew Rupp)</webMaster>
+    <copyright>© 2024 Mathew Rupp</copyright>
+    <lastBuildDate>Wed, 16 Oct 2024 16:54:32 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Automate Hugo Blog Posts</title>
+      <link>http://localhost:1313/posts/how-i-automate-hugo-blog-posts/</link>
+      <pubDate>Wed, 16 Oct 2024 16:54:32 +0000</pubDate>
+      <author>mathewrupp@gmail.com (Mathew Rupp)</author>
+      <guid>http://localhost:1313/posts/how-i-automate-hugo-blog-posts/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how-i-automate-hugo-blog-posts/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
