@@ -26,3 +26,5 @@ EOF
 ```
 
 This creates the folder `{title}` changes directory into it, and echo's the front matter into a file called index.md. Using a folder structure instead of a file structure lets me easily embed images alongside the text.
+
+I then created a workflow that changes directory into the relevant directory, adds new files to git, commits the new files with the message "new post" and pushes the changes to the repository to publish the posts
