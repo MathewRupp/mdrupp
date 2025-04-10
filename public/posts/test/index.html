@@ -8,14 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>How I Automate Hugo Blog Posts &middot; Mathew Rupp</title>
-  <meta name="title" content="How I Automate Hugo Blog Posts &middot; Mathew Rupp" />
+  <title>test post &middot; Mathew Rupp</title>
+  <meta name="title" content="test post &middot; Mathew Rupp" />
   
   
+  <meta name="keywords" content="test, fun, whatup, " />
   
   
-  
-  <link rel="canonical" href="https://mdrupp.com/posts/how-i-automate-hugo-blog-posts/" />
+  <link rel="canonical" href="https://mdrupp.com/posts/test/" />
   
   
   
@@ -64,20 +64,21 @@
   
   
   
-  <meta property="og:url" content="https://mdrupp.com/posts/how-i-automate-hugo-blog-posts/">
+  <meta property="og:url" content="https://mdrupp.com/posts/test/">
   <meta property="og:site_name" content="Mathew Rupp">
-  <meta property="og:title" content="How I Automate Hugo Blog Posts">
+  <meta property="og:title" content="test post">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2024-10-16T16:54:32+00:00">
-    <meta property="article:modified_time" content="2024-10-16T16:54:32+00:00">
-    <meta property="og:image" content="https://mdrupp.com/posts/how-i-automate-hugo-blog-posts/featured.png">
+    <meta property="article:published_time" content="2025-04-09T17:53:55-07:00">
+    <meta property="article:modified_time" content="2025-04-09T17:53:55-07:00">
+    <meta property="article:tag" content="Test">
+    <meta property="article:tag" content="Fun">
+    <meta property="article:tag" content="Whatup">
 
   
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://mdrupp.com/posts/how-i-automate-hugo-blog-posts/featured.png">
-  <meta name="twitter:title" content="How I Automate Hugo Blog Posts">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="test post">
 
   
   <script type="application/ld+json">
@@ -85,26 +86,26 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Posts",
-    "name": "How I Automate Hugo Blog Posts",
-    "headline": "How I Automate Hugo Blog Posts",
+    "name": "test post",
+    "headline": "test post",
     
     
     "inLanguage": "en",
-    "url" : "https:\/\/mdrupp.com\/posts\/how-i-automate-hugo-blog-posts\/",
+    "url" : "https:\/\/mdrupp.com\/posts\/test\/",
     "author" : {
       "@type": "Person",
       "name": "Mathew Rupp"
     },
-    "copyrightYear": "2024",
-    "dateCreated": "2024-10-16T16:54:32\u002b00:00",
-    "datePublished": "2024-10-16T16:54:32\u002b00:00",
+    "copyrightYear": "2025",
+    "dateCreated": "2025-04-09T17:53:55-07:00",
+    "datePublished": "2025-04-09T17:53:55-07:00",
     
-    "dateModified": "2024-10-16T16:54:32\u002b00:00",
+    "dateModified": "2025-04-09T17:53:55-07:00",
     
-    
+    "keywords": ["test","fun","whatup"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "160"
+    "wordCount": "0"
   }]
   </script>
 
@@ -418,17 +419,15 @@
   
   
   
-        
-            <div class="w-full h-36 md:h-56 lg:h-72 single_hero_basic nozoom" style="background-image:url(/posts/how-i-automate-hugo-blog-posts/featured_hu16433423371625834947.png);"></div>
-        
-    
+ 
+
   
   
 
   <header id="single_header" class="mt-5 max-w-prose">
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      How I Automate Hugo Blog Posts
+      test post
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -452,11 +451,7 @@
 
 
 
-  
 
-
-
-  
 
 
 
@@ -473,7 +468,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-10-16T16:54:32&#43;00:00">16 October 2024</time><span class="px-2 text-primary-500">&middot;</span><span>160 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
+  <time datetime="2025-04-09T17:53:55-07:00">9 April 2025</time>
   
 
   
@@ -593,35 +588,7 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          <p>I recently setup this Hugo blog and I thought I would share how I created a simple workflow to create a new blog post.</p>
-
-
-<h2 class="relative group">Alfred workflow 
-    <div id="alfred-workflow" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#alfred-workflow" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>When I type <code>nbp {title}</code> into the Alfred command bar it runs the following script</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nv">query</span><span class="o">=</span><span class="nv">$1</span>
-</span></span><span class="line"><span class="cl"><span class="nv">dateTime</span><span class="o">=</span><span class="k">$(</span>date +<span class="s2">&#34;%Y-%m-%dT%H:%M:%S&#34;</span><span class="k">)</span>  <span class="c1"># ISO 8601 format</span>
-</span></span><span class="line"><span class="cl"><span class="c1"># Create directory and navigate into it</span>
-</span></span><span class="line"><span class="cl"><span class="nb">cd</span> ~/programming/blog/mdrupp.com/content/posts <span class="o">&amp;&amp;</span> mkdir <span class="nv">$1</span> <span class="o">&amp;&amp;</span> <span class="nb">cd</span> <span class="nv">$1</span>
-</span></span><span class="line"><span class="cl"><span class="c1"># Create and populate index.md with frontmatter</span>
-</span></span><span class="line"><span class="cl">cat <span class="s">&lt;&lt;EOF &gt; index.md
-</span></span></span><span class="line"><span class="cl"><span class="s">+++
-</span></span></span><span class="line"><span class="cl"><span class="s">title = &#39;$query&#39;
-</span></span></span><span class="line"><span class="cl"><span class="s">date = $dateTime
-</span></span></span><span class="line"><span class="cl"><span class="s">draft = true
-</span></span></span><span class="line"><span class="cl"><span class="s">+++
-</span></span></span><span class="line"><span class="cl"><span class="s">EOF</span>
-</span></span></code></pre></div><p>This creates the folder <code>{title}</code> changes directory into it, and echo&rsquo;s the front matter into a file called index.md. Using a folder structure instead of a file structure lets me easily embed images alongside the text.</p>
-<p>I then created a workflow that changes directory into the relevant directory, adds new files to git, commits the new files with the message &ldquo;new post&rdquo; and pushes the changes to the repository to publish the posts</p>
-
+          
           
           
           
@@ -643,8 +610,8 @@
           
         
       <script>
-        var oid = "views_posts\/How I Automate Hugo Blog Posts\/index.md"
-        var oid_likes = "likes_posts\/How I Automate Hugo Blog Posts\/index.md"
+        var oid = "views_posts\/test\/index.md"
+        var oid_likes = "likes_posts\/test\/index.md"
       </script>
       
       
@@ -664,30 +631,30 @@
       <div class="flex justify-between pt-3">
         <span>
           
-        </span>
-        <span>
-          
-            <a class="flex text-right group ml-3" href="/posts/test/">
+            <a class="flex group mr-3" href="/posts/how-i-automate-hugo-blog-posts/">
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >test post</span
+                  >How I Automate Hugo Blog Posts</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2025-04-09T17:53:55-07:00">9 April 2025</time>
+                    <time datetime="2024-10-16T16:54:32&#43;00:00">16 October 2024</time>
                   
                 </span>
               </span>
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
             </a>
+          
+        </span>
+        <span>
           
         </span>
       </div>
@@ -699,13 +666,7 @@
   </footer>
 </article>
 
-      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
-  <a href="#the-top"
-    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
-    aria-label="Scroll to top" title="Scroll to top">
-    &uarr;
-  </a>
-</div>
+      
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   

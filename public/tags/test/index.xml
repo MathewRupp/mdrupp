@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Mathew Rupp</title>
+    <link>https://mdrupp.com/tags/test/</link>
+    <description>Recent content in Test on Mathew Rupp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mathewrupp@gmail.com (Mathew Rupp)</managingEditor>
+    <webMaster>mathewrupp@gmail.com (Mathew Rupp)</webMaster>
+    <copyright>© 2025 Mathew Rupp</copyright>
+    <lastBuildDate>Wed, 09 Apr 2025 17:53:55 -0700</lastBuildDate><atom:link href="https://mdrupp.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test post</title>
+      <link>https://mdrupp.com/posts/test/</link>
+      <pubDate>Wed, 09 Apr 2025 17:53:55 -0700</pubDate>
+      <author>mathewrupp@gmail.com (Mathew Rupp)</author>
+      <guid>https://mdrupp.com/posts/test/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
