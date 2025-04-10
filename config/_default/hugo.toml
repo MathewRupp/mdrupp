@@ -28,6 +28,9 @@ category = "categories"
 author = "authors"
 series = "series"
 
+[pagination]
+  pagerSize = 100
+
 [sitemap]
 changefreq = 'daily'
 filename = 'sitemap.xml'
