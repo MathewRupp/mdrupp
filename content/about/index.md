@@ -1,3 +1,12 @@
++++
+title = "About"
+# Optional: mark as a generic page type
+# type = "page"
+# Optional: hero image alongside this page (leaf bundle)
+# hero = "images/hero.jpg"
+hideDate = true
++++
+
 # About Me
 
 Hi, my name is Mat! A little bit about me:
