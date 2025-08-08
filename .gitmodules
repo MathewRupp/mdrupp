@@ -2,3 +2,6 @@
 	path = themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
 	branch = main
+[submodule "themes/marius-terminal"]
+	path = themes/marius-terminal
+	url = git@github.com:MathewRupp/marius-terminal.git
