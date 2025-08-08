@@ -29,5 +29,5 @@ homeSections = ["journal"]
   [[menus.main]]
   name = "About"
   url = "/about/"
-  weight = 5
+  weight = 99
 
