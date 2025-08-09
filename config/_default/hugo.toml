@@ -16,22 +16,25 @@ homeSections = ["journal"]
   tag = "tags"
 
 [menus]
-  [[menus.main]]
+  [[menu.main]]
   name = "Journal"
   url = "/journal/"
   weight = 1
 
-  [[menus.main]]
+  [[menu.main]]
   name = "Posts"
   url = "/posts/"
   weight = 2
 
-  [[menus.main]]
+  [[menu.main]]
   name = "About"
   url = "/about/"
   weight = 5
-  [[menus.main]]
+  [[menu.main]]
   name = "Notes"
-  url = "notes.mdrupp.com"
+  url = "http://notes.mdrupp.com"
   weight = 7
+  [menu.main.params]
+    target = "_blank"
+    rel = "noopener noreferrer"
 
