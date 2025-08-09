@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "About Me"
 # Optional: mark as a generic page type
 # type = "page"
 # Optional: hero image alongside this page (leaf bundle)
@@ -7,7 +7,6 @@ title = "About"
 hideDate = true
 +++
 
-# About Me
 
 Hi, my name is Mat! A little bit about me:
 
