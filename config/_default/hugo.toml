@@ -29,5 +29,9 @@ homeSections = ["journal"]
   [[menus.main]]
   name = "About"
   url = "/about/"
-  weight = 99
+  weight = 5
+  [[menus.main]]
+  name = "Notes"
+  url = "notes.mdrupp.com"
+  weight = 7
 
