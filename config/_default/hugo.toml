@@ -8,8 +8,8 @@ theme = "marius-terminal"
 
 [params]
 dateFormat = "2 Jan '06"
-homeTitle = "Journal"
-homeSections = ["journal"]
+homeTitle = "Recent"
+homeSections = ["posts"]
 
 [taxonomies]
   category = "categories"
