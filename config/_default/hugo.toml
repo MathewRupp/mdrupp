@@ -9,7 +9,7 @@ theme = "marius-terminal"
 [params]
 dateFormat = "2 Jan '06"
 homeTitle = "Recent"
-homeSections = ["posts"]
+homeSections = ["posts", "journal", "ai"]
 
 [taxonomies]
   category = "categories"
@@ -25,6 +25,11 @@ homeSections = ["posts"]
   name = "Posts"
   url = "/posts/"
   weight = 2
+  
+  [[menu.main]]
+  name = "AI"
+  url = "/ai/"
+  weight = 3
 
   [[menu.main]]
   name = "About"
