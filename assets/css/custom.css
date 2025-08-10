@@ -1,0 +1,5 @@
+/* Override the blinking animation for the site title caret */
+.brand .caret {
+  animation: none;
+  opacity: 1;
+}
