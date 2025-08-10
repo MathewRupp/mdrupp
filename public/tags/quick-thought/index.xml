@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quick Thought on Mathew Rupp</title>
-    <link>http://localhost:1313/tags/quick-thought/</link>
+    <link>http://localhost:1318/tags/quick-thought/</link>
     <description>Recent content in Quick Thought on Mathew Rupp</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>mathewrupp@gmail.com (Mathew Rupp)</managingEditor>
     <webMaster>mathewrupp@gmail.com (Mathew Rupp)</webMaster>
     <lastBuildDate>Thu, 10 Apr 2025 07:59:01 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/quick-thought/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1318/tags/quick-thought/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>April 10, 2025</title>
-      <link>http://localhost:1313/posts/2025-04-10-april-10-2025/</link>
+      <link>http://localhost:1318/posts/2025-04-10-april-10-2025/</link>
       <pubDate>Thu, 10 Apr 2025 07:59:01 -0700</pubDate><author>mathewrupp@gmail.com (Mathew Rupp)</author>
-      <guid>http://localhost:1313/posts/2025-04-10-april-10-2025/</guid>
+      <guid>http://localhost:1318/posts/2025-04-10-april-10-2025/</guid>
       <description>&lt;p&gt;Zephyr is a great RTOS, but it can be extremely difficult to start learning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>April 9, 2025</title>
-      <link>http://localhost:1313/posts/2025-04-09-april-9-2025/</link>
+      <link>http://localhost:1318/posts/2025-04-09-april-9-2025/</link>
       <pubDate>Wed, 09 Apr 2025 20:29:03 -0700</pubDate><author>mathewrupp@gmail.com (Mathew Rupp)</author>
-      <guid>http://localhost:1313/posts/2025-04-09-april-9-2025/</guid>
+      <guid>http://localhost:1318/posts/2025-04-09-april-9-2025/</guid>
       <description>&lt;p&gt;Setting up automations to make publishing easier is important. Today I used chatgpt to help build some go programs that allow me to write quick blog posts from the terminal&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vibecoding on Mathew Rupp</title>
-    <link>http://localhost:1313/tags/vibecoding/</link>
+    <link>http://localhost:1318/tags/vibecoding/</link>
     <description>Recent content in Vibecoding on Mathew Rupp</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>mathewrupp@gmail.com (Mathew Rupp)</managingEditor>
     <webMaster>mathewrupp@gmail.com (Mathew Rupp)</webMaster>
     <lastBuildDate>Tue, 15 Jul 2025 18:05:05 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/vibecoding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1318/tags/vibecoding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testing Out AI Workflows</title>
-      <link>http://localhost:1313/posts/2025-07-15-testing-out-ai-workflows/</link>
+      <link>http://localhost:1318/posts/2025-07-15-testing-out-ai-workflows/</link>
       <pubDate>Tue, 15 Jul 2025 18:05:05 -0700</pubDate><author>mathewrupp@gmail.com (Mathew Rupp)</author>
-      <guid>http://localhost:1313/posts/2025-07-15-testing-out-ai-workflows/</guid>
+      <guid>http://localhost:1318/posts/2025-07-15-testing-out-ai-workflows/</guid>
       <description>&lt;p&gt;Lately I&amp;rsquo;ve been playing around with AI workflows using Cursor and various web chatbots. I&amp;rsquo;ll post a more in depth workflow later, I&amp;rsquo;m mostly writing this to see if my blog post workflow is still working&amp;hellip;.&lt;/p&gt;</description>
     </item>
   </channel>
